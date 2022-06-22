@@ -61,15 +61,13 @@ header a::before {
   -moz-transition: 0.5s;
   -ms-transition: 0.5s;
   -o-transition: 0.5s;
-}
-header a:hover::before {
-  content: "";
-  position: absolute;
   bottom: 0;
-  width: 100%;
   height: 5px;
   background-color: #00adef;
   left: 0;
+}
+header a:hover::before {
+  width: 100%;
 }
 .overlay {
   height: 90vh;
