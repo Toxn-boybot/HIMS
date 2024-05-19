@@ -1,5 +1,7 @@
 # HIMS Institute Website
 
+![App Screenshot](./img/Screenshot_1.png)
+
 This project showcases a static web page designed for the HIMS Institute, providing comprehensive information about the institute and linking it with a page displaying student results. This project marks the inception of my freelancing career.
 
 ## Project Overview
